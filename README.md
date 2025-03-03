@@ -1,6 +1,18 @@
 ## Olá! Eu sou o Cauan Ugino👋
 ## Hello! I'm Cauan Ugino👋
 
+🚀 Currently studying **Python**, **JavaScript** and web development.
+
+📚 Exploring concepts of **backend, APIs and databases**. 
+
+🔧 Working on practical projects to improve my skills.
+
+
+📌My goals: 
+- Learn new technologies and good programming practices. 
+- Contribute to open source projects. 
+- Develop applications that make people's daily lives easier.
+----------------------------------------------------------------------------
 🚀 Atualmente estudando **Python**, **JavaScript** e desenvolvimento web.  
 📚 Explorando conceitos de **backend, APIs e bancos de dados**.  
 🔧 Trabalhando em projetos práticos para aprimorar minhas habilidades.  
