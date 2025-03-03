@@ -1,8 +1,15 @@
 ## Olá! Eu sou o Cauan Ugino👋
 ## Hello! I'm Cauan Ugino👋
 
-- 🔭 I’m currently working on Back-end
-- 🌱 I’m currently learning C#
+🚀 Atualmente estudando **Python**, **JavaScript** e desenvolvimento web.  
+📚 Explorando conceitos de **backend, APIs e bancos de dados**.  
+🔧 Trabalhando em projetos práticos para aprimorar minhas habilidades.  
+
+
+📌 Meus objetivos:  
+- Aprender novas tecnologias e boas práticas de programação.  
+- Contribuir para projetos open-source.  
+- Desenvolver aplicações que facilitem o dia a dia das pessoas. 
 
 <div style="display: flex; align-items: center;">
   <a href="https://beacons.ai/CauanUgino">
